@@ -11,28 +11,28 @@
 
       if (isset($_POST['submit'])){
 
-            if($_POST['Mon']!=''){
+            if(isset($_POST['Mon'])){
               $mon_order = $_POST['Mon'];
               $STH = $DBH->prepare("INSERT into orders (order_no, user_no, food_id) values (null,$user_no,'$mon_order')");
               $STH->EXECUTE();
             }
 
-            if($_POST['Tue']!=''){
+            if(isset($_POST['Tue'])){
               $tue_order = $_POST['Tue'];
               $STH = $DBH->prepare("INSERT into orders (order_no, user_no, food_id) values (null,$user_no,'$tue_order')");
               $STH->EXECUTE();
             }
-            if($_POST['Wed']!=''){
+            if(isset($_POST['Wed'])){
               $wed_order = $_POST['Wed'];
               $STH = $DBH->prepare("INSERT into orders (order_no, user_no, food_id) values (null,$user_no,'$wed_order')");
               $STH->EXECUTE();
             }
-            if($_POST['Thu']!=''){
+            if(isset($_POST['Thu'])){
               $thu_order = $_POST['Thu'];
               $STH = $DBH->prepare("INSERT into orders (order_no, user_no, food_id) values (null,$user_no,'$thu_order')");
               $STH->EXECUTE();
             }
-            if($_POST['Fri']!=''){
+            if(isset($_POST['Fri'])){
               $fri_order = $_POST['Fri'];
               $STH = $DBH->prepare("INSERT into orders (order_no, user_no, food_id) values (null,$user_no,'$fri_order')");
               $STH->EXECUTE();
