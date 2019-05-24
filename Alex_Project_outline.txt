@@ -1,0 +1,74 @@
+Project log for Final Project:
+Alex Proca
+
+Day #1, #2 -04th of May Saturday:
+We start working on the class computer, we installed Atom and learned some basics how to use it.
+We start started creating the GitHub account. Explored LAMP software for Linux environment.
+
+Day # 3, Monday May 06,
+We covered most of the of the same subjects we covered on Saturday but for the Windows environment 
+We tried and explored and practice Bootstrap and more practice on Atom IDE.
+Start working on the UML project Shema.
+We wrote our project outline and project description.
+
+Day #4, Tuesday May 07, 
+We worked with Git, personal and team members accounts, practiced collaborating on the same file and fixing the conflict errors.
+Worked under our project idea to create a ‘Food School catering’ Website; Discussed all the details and created a work plan.
+We corrected and resubmitted our UML schema.
+
+Day # 05 Wednesday May 08,
+I have installed XAMPP and we start looking into PHP following the online tutorial.
+In the team we reviewed our contribution work.
+
+Day #6 Thurday:
+PHP tutorial
+
+Day #7:
+php login practice in class
+link database with php
+php tutorial and practice.
+bootstrup
+
+
+Sunday, May 12:
+learned more about Bootstrap - 3hrs
+Practice php and bootstrap 
+made a research and selected peactures for our web site + worked on the text
+
+Monday May 13:
+
+Tuesday May 14
+
+Wednsday May 15:
+
+Friday May 17:
+decided to follow only the w3schools tutorial as the most "easy to read" with the exapmled and result outputs - 3.5-4 hrs
+css and bootstrap 2-2.5 hrs
+php forms 1.5 hr
+
+Sunday-Monday May 19-20:
+creaged Contact us and About us page
+50% ready with Orders page
+changed pictures and updated text
+
+Tuesday May 21:
+
+Out team last meeting 2 hrs
+linked the Login page
+tests and project review
+
+Wensday May 22:
+
+Order page - 4hrs
+created all the database for Order page
+linked the Order page with the database
+
+Thursday May 23:
+stayed late at work until 9 p.m.
+no power to work this evening
+
+Friday May 24:
+plan the presentation in team for tonoght
+log file review
+
+
