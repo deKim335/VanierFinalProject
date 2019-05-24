@@ -51,24 +51,50 @@ class6
 3. make foods database and load on webpage using thumbnail loop(1hr)
 
 13-May-2019
+3hrs
 1.php w3school reading
 2.log-in page
 3.to modify bootstrap
 
 14-May-2019
+3rhs
 1.php w3school reading
 2.modify bootstrap code header.php footer.php
 
 15-may-2019
+3hrs
 1.login process
 2.split the job
 
+16-may-2019
+3hrs
+1.login process
+2.php reading
+3.start to modify bootstrap
 
+17-19-may-2019
+break
 
-to do list
-1> make classes
-order, foods, invoice
+20-may-2019
+1.playing with bootstrap(4hrs)
 
-2> mix the login module with webpages
+21-may-2019
+3hrs
+1.meeting up to finalize but we were far from finishing.
+2.frustration
 
-3> using order object to update foods qtyonhand and give output as invoice
+22-may-2019
+6hrs
+1.making ordering page
+2.make connection btw order.php to database
+
+23-may-2019
+10hrs
+1.incorporate login, logout, register into the site.
+2.use the session value to order with userid.
+3.using User class
+
+24-may-2019
+5hrs
+1.made order history page to use delete sql query using Food class
+
