@@ -1,0 +1,74 @@
+Dongeon Kim
+1895376
+
+class1
+4-May-2019
+1.tried installing 'atom', Bootstrap(1.5hrs)
+2.tried MariaDB, MySQL(0.5hr)
+3.tried re-installing virtual machine(2hrs)
+
+class2
+6-May-2019
+1.tried installing Oracle Virtual Machine to re-install 'Debian'
+->failed(6rs)-> decided to go for Windows.
+2.Learned how to use Bootstrap.(2hrs)
+
+class3
+7-May-2019
+1.learned how to use Github(3hrs)
+2.made UML(30mins)
+3.made report(20mins)
+
+class4
+8-May-2019
+1.installed Xampp with the help of friends(1hr)
+->turn off antivirus program
+2.corrected report(30mins)
+3.PHP intro(3hrs)
+
+class5
+9-May-2019
+1.Learn PDO to execute MySQL Queries.(2hrs)
+2.Learn the purpose of using MySQL-it is an open source.(0.5hrs)
+
+class6
+11-May-2019
+1.read documents about Apache to understand better about Web Server
+  we can create database in Apache web server.
+  so, we can use Bootstrap, Html, CSS, Javascript to build the web page,
+  then user can ask for the date in datebase through Apache.(0.5hrs)
+
+2.read about PHP(0.5hr)
+
+12-May-2019
+1. read about Demo:Bootstrap+php+MySQL
+  try it out on my own, had a hard time to put img's on webpage.
+  managed to do it. there was a problem thumnail height adjustment problem came out when img size is not equal.(1hrs)
+
+2. try implementing login page..(2hrs)
+  able to implement registration, log in using php. in progress.
+
+3. make foods database and load on webpage using thumbnail loop(1hr)
+
+13-May-2019
+1.php w3school reading
+2.log-in page
+3.to modify bootstrap
+
+14-May-2019
+1.php w3school reading
+2.modify bootstrap code header.php footer.php
+
+15-may-2019
+1.login process
+2.split the job
+
+
+
+to do list
+1> make classes
+order, foods, invoice
+
+2> mix the login module with webpages
+
+3> using order object to update foods qtyonhand and give output as invoice
