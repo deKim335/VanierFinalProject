@@ -97,4 +97,6 @@ break
 24-may-2019
 5hrs
 1.made order history page to use delete sql query using Food class
+2hrs
+prepared for presentation and updated missing documentation in github.(README.txt,INSTALL.txt,UML files)
 
