@@ -1,0 +1,65 @@
+project documentation 
+
+May 4th 2019
+1. install atom in linux system in personal computer, but failed (1.5hours).
+2. try to reinstall the virtual machine and download the Atom, but still not working (1hours)
+3. Learn the command of Git, and review the Git Tourial (1hour)
+4. Searn online and try to fix the Atom run in linux System, but still failed (2.5hours)
+
+May 6th 2019
+1. install Atom, git, Xampp in Window System, it workd (2.5 hours);
+2. read slides in Omnivox about bootstrap and install it in my computer (1.5hours)
+3. Learn the function of bootstrap in Atom and try to familiar with it in class (2hours)
+4. Create our GitHub account and think about the project, will design the project related 
+  "school catering"(1 hour)
+
+May 7th 2019
+1. Search the information of how to build up the website desgin of the project "school catering";
+2. use bootstrap, html design part of the website (4hours);
+3. Learn how to use GitHub and the Github collaboration (3hours)
+
+May 8th 2019
+1. Continue the website design (2hours)
+2. read the slide in Omnivox about php (1hour)
+3. Learn how to use the php (2hours)
+4. Learn how to work with XAMPP (1hour)
+5. design the UML of the project on drwaio (1 hour)
+6. push all the finished part of project on Github;
+
+May 9th 2019
+1. Continue the web design (1 hour)
+2. create the report.php, that improve the website with php part (2hours)
+
+May 10th 2019
+1. Run the designed project in XAMPP, and test the php part (2hours)
+
+May 11th 2019
+1. begin to learn PDO part, read the slides on ominivox, and will improve the project with databse part;
+2. Learn how to use PDO work with datebase and webdesign (2hours)
+
+May 13th 2019
+1. revise the website order.html, with Bootstrap form, button ect (2)hours
+2. team work together with the website design, update inforamtion, database and php part. (3hours)
+
+May 14th 2019
+1. revise the homepage website (navbar, button, footer, 2hours)
+2. do the database part and try to run it in the server (1hour)
+3. learn login function in XAMPP (3hours);
+
+May 16th 2019
+1. keep revising the website and function (php, xampp) (2hours)
+2. continue the login/logout system of the project (2hours)
+
+May 20th 2019
+1. Change the website of a bootstrap model, update and revise the website (1hour)
+2. Working on Login/logout system, with Tessia's method and try to use the other method that found on the network (3 hours).
+
+May21th 2019
+1. Team work together, merge every part of our website and will keep revising the project (3hours)
+
+May 22th 2019
+1. Test the database and every step of the project, different login/logout system, php code ect. 
+(2 hours)
+
+May 24th 2019
+1, prepare and finalize all the part of the project that will present tonight (3hours)
