@@ -1,0 +1,6 @@
+0.create database with finalproject.sql in your database.
+1.put this VanierFinalProject folder in htdocs
+2.open the browser(chrome is recommended)
+3.put 'localhost/vanierfinalproject/teamproject.v2/index.php'
+4.navigate and register yourself to create your account and log-in.
+5.Enjoy!
